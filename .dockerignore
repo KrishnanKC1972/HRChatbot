@@ -1,0 +1,14 @@
+.git
+.github
+.env
+.venv
+venv
+tvenv
+__pycache__
+**/__pycache__
+*.pyc
+frontend/node_modules
+frontend/dist
+eval_results
+data/*.db
+*.log
