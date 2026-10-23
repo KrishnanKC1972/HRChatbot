@@ -1,0 +1,66 @@
+﻿# .gitignore
+
+# Environment
+.env
+.venv
+venv/
+env/
+
+# ChromaDB
+chroma_db/
+db/
+.vector_store/
+*.chromadb
+chroma.sqlite3
+chroma_db
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Logs
+*.log
+logs/
+
+# Streamlit
+.streamlit/
+
+# Cache
+.cache/
+
+# Evaluation results
+eval_results/
+
+# SQLite database (unanswered queries)
+data/*.db
+
+# React frontend
+frontend/node_modules/
+frontend/dist/

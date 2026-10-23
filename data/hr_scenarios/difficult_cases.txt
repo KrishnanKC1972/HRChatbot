@@ -1,0 +1,11 @@
+Q: A new manager is unclear about pay equity requirements when making an offer to a candidate who is a member of an underrepresented group. What guidance should HR provide?
+A: Offers must be based on job-related factors (skills, experience, internal equity, market data). We cannot adjust based on demographic factors; we must ensure pay equity and document rationale. Review range, comp history policy, and avoid asking prohibited salary history where applicable.
+
+Q: An employee requests a religious accommodation to modify their work schedule for prayer times. How should this be handled?
+A: Initiate interactive process, understand the religious need and proposed accommodation, explore alternatives if undue hardship exists, document discussions, implement reasonable accommodation where feasible, and avoid assumptions.
+
+Q: During a layoff, an employee claims age discrimination. What steps should be taken?
+A: Ensure layoff decisions based on objective business criteria (skills, performance, roles eliminated), review selection matrix for disparate impact, document rationale for each affected employee, maintain confidentiality, involve HR/Legal, follow WARN if applicable.
+
+Q: Employee wants to use company device for personal AI tools and upload sensitive client docs. Is this allowed?
+A: No - uploading sensitive/client data to unapproved AI tools violates IT security and data protection policy. Use only approved AI tools with proper data classification and approval. Report if accidental upload occurred.

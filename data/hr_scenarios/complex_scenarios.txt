@@ -1,0 +1,19 @@
+Q: A part-time employee working 30 hours/week wants to know how much sick leave they accrue annually. A: Based on accrual of 1 hour per 30 hours worked, they accrue ~52 hours annually; for part-time, accrual is pro-rated accordingly. Full-time frontload 80 hours; part-time accrue based on hours worked.
+
+Q: Employee needs FMLA/parental leave - been employed 11 months, 1200 hours. Eligible? A: FMLA/parental leave typically requires 12 months service and 1250 hours in past 12 months; with 11 months and 1200 hours, likely not yet eligible under standard criteria - check state law which may be more generous.
+
+Q: Manager wants to approve overtime for non-exempt employee but forgot pre-approval - can we retroactively approve? A: Overtime must be pre-approved when possible; however if worked, it must still be compensated at 1.5x per FLSA. Retroactive approval is a policy issue but pay obligation remains. Document and address policy violation separately.
+
+Q: Employee reports sexual harassment by vendor. What steps? A: Take report seriously, ensure immediate safety, document details, do not investigate alone. Notify HR/ethics hotline, separate parties if needed, conduct impartial investigation per policy, prevent retaliation.
+
+Q: Remote employee in another state wants full-time remote - tax/compliance implications? A: Requires approval and compliance review (payroll taxes, workers comp, state employment laws, benefits). HR/Finance must review before approving permanent remote from new location.
+
+Q: Employee requests ADA accommodation - needs modified schedule due to medical condition. Process? A: Engage in interactive process, request medical documentation as needed, explore reasonable accommodations without undue hardship, document agreed solution, maintain confidentiality.
+
+Q: Suspected data breach - employee clicked phishing link and entered creds. Response? A: Report to security immediately (within 1 hour per policy). Revoke access, force password reset/MFA, check logs for access, determine scope, notify impacted parties per requirements, preserve evidence.
+
+Q: Employee expense report submitted 45 days late with  in expenses. Can reimburse? A: Policy requires submission within 30 days. Late submission may be denied; manager/HR may make exception with justification, but generally not reimbursable per policy. Educate employee on policy.
+
+Q: Whistleblower reports financial fraud anonymously via hotline. Investigation steps? A: Acknowledge receipt, assign impartial investigator, protect anonymity where possible, prevent retaliation, maintain confidentiality, document findings, take corrective action if substantiated.
+
+Q: Manager gives final warning for attendance - employee claims retaliation. How to handle? A: Review prior discipline history, ensure consistency with policy, check for protected activity timing, conduct separate review, document rationale, ensure no retaliatory action.
